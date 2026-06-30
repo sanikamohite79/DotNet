@@ -1,0 +1,12 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\bin\Debug\net10.0\Cataog.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\bin\Debug\net10.0\Cataog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\bin\Debug\net10.0\Cataog.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\refint\Cataog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\Cataog.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\Cataog\obj\Debug\net10.0\ref\Cataog.dll
