@@ -1,0 +1,14 @@
+D:\tryout\MondayTryouts\SimpleApp\bin\Debug\net10.0\SimpleApp.exe
+D:\tryout\MondayTryouts\SimpleApp\bin\Debug\net10.0\SimpleApp.deps.json
+D:\tryout\MondayTryouts\SimpleApp\bin\Debug\net10.0\SimpleApp.runtimeconfig.json
+D:\tryout\MondayTryouts\SimpleApp\bin\Debug\net10.0\SimpleApp.dll
+D:\tryout\MondayTryouts\SimpleApp\bin\Debug\net10.0\SimpleApp.pdb
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.AssemblyInfoInputs.cache
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.AssemblyInfo.cs
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.csproj.CoreCompileInputs.cache
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.dll
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\refint\SimpleApp.dll
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.pdb
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\SimpleApp.genruntimeconfig.cache
+D:\tryout\MondayTryouts\SimpleApp\obj\Debug\net10.0\ref\SimpleApp.dll

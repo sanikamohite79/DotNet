@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\bin\Debug\net10.0\GrahicsApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\bin\Debug\net10.0\GrahicsApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\bin\Debug\net10.0\GrahicsApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\bin\Debug\net10.0\GrahicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\bin\Debug\net10.0\GrahicsApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\refint\GrahicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\GrahicsApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\MondayTryouts\MondayTryouts\GrahicsApp\obj\Debug\net10.0\ref\GrahicsApp.dll
