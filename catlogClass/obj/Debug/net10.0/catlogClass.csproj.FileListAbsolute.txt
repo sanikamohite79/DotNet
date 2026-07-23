@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\bin\Debug\net10.0\catlogClass.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\bin\Debug\net10.0\catlogClass.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\bin\Debug\net10.0\catlogClass.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\bin\Debug\net10.0\catlogClass.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\bin\Debug\net10.0\catlogClass.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\refint\catlogClass.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\catlogClass.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\catlogClass\obj\Debug\net10.0\ref\catlogClass.dll

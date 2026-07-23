@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\bin\Debug\net10.0\GraphicsApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\bin\Debug\net10.0\GraphicsApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\bin\Debug\net10.0\GraphicsApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\bin\Debug\net10.0\GraphicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\bin\Debug\net10.0\GraphicsApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\refint\GraphicsApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\GraphicsApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\GraphicsApp\obj\Debug\net10.0\ref\GraphicsApp.dll

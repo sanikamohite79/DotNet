@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 101,
+    "Name": "Sanika",
+    "Salary": 50000
+  },
+  {
+    "Id": 102,
+    "Name": "Rosham",
+    "Salary": 60000
+  }
+]

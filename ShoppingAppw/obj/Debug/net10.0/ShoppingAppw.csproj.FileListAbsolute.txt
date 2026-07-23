@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\bin\Debug\net10.0\ShoppingAppw.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\bin\Debug\net10.0\ShoppingAppw.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\bin\Debug\net10.0\ShoppingAppw.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\bin\Debug\net10.0\ShoppingAppw.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\bin\Debug\net10.0\ShoppingAppw.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\refint\ShoppingAppw.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ShoppingAppw.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ShoppingAppw\obj\Debug\net10.0\ref\ShoppingAppw.dll

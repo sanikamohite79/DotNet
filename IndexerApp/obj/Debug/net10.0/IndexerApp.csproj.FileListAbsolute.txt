@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\bin\Debug\net10.0\IndexerApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\bin\Debug\net10.0\IndexerApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\bin\Debug\net10.0\IndexerApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\bin\Debug\net10.0\IndexerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\bin\Debug\net10.0\IndexerApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\refint\IndexerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\IndexerApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\obj\Debug\net10.0\ref\IndexerApp.dll

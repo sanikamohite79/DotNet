@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\bin\Debug\net10.0\ExplicitInterfaceApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\bin\Debug\net10.0\ExplicitInterfaceApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\bin\Debug\net10.0\ExplicitInterfaceApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\bin\Debug\net10.0\ExplicitInterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\bin\Debug\net10.0\ExplicitInterfaceApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\refint\ExplicitInterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ExplicitInterfaceApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ExplicitInterfaceApp\obj\Debug\net10.0\ref\ExplicitInterfaceApp.dll

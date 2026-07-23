@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\bin\Debug\net10.0\Shadowing.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\bin\Debug\net10.0\Shadowing.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\bin\Debug\net10.0\Shadowing.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\bin\Debug\net10.0\Shadowing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\bin\Debug\net10.0\Shadowing.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\refint\Shadowing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\Shadowing.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Shadowing\obj\Debug\net10.0\ref\Shadowing.dll

@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\bin\Debug\net10.0\IntrfaceApp1.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\bin\Debug\net10.0\IntrfaceApp1.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\bin\Debug\net10.0\IntrfaceApp1.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\bin\Debug\net10.0\IntrfaceApp1.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\bin\Debug\net10.0\IntrfaceApp1.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\refint\IntrfaceApp1.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\IntrfaceApp1.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IntrfaceApp1\obj\Debug\net10.0\ref\IntrfaceApp1.dll

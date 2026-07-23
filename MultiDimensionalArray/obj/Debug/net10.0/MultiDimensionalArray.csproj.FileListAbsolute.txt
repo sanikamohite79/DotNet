@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\bin\Debug\net10.0\MultiDimensionalArray.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\bin\Debug\net10.0\MultiDimensionalArray.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\bin\Debug\net10.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\bin\Debug\net10.0\MultiDimensionalArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\bin\Debug\net10.0\MultiDimensionalArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\refint\MultiDimensionalArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\MultiDimensionalArray.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MultiDimensionalArray\obj\Debug\net10.0\ref\MultiDimensionalArray.dll

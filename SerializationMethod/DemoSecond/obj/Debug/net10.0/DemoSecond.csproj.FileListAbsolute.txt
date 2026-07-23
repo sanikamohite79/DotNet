@@ -1,0 +1,4 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\DemoSecond\obj\Debug\net10.0\DemoSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\DemoSecond\obj\Debug\net10.0\DemoSecond.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\DemoSecond\obj\Debug\net10.0\DemoSecond.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\DemoSecond\obj\Debug\net10.0\DemoSecond.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\bin\Debug\net10.0\HrApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\bin\Debug\net10.0\HrApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\bin\Debug\net10.0\HrApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\bin\Debug\net10.0\HrApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\bin\Debug\net10.0\HrApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\refint\HrApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\HrApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\HrApp\obj\Debug\net10.0\ref\HrApp.dll

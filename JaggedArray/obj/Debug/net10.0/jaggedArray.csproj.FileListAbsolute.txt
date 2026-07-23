@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\bin\Debug\net10.0\jaggedArray.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\bin\Debug\net10.0\jaggedArray.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\bin\Debug\net10.0\jaggedArray.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\bin\Debug\net10.0\jaggedArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\bin\Debug\net10.0\jaggedArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\refint\jaggedArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\jaggedArray.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\jaggedArray\obj\Debug\net10.0\ref\jaggedArray.dll

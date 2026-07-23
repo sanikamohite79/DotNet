@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\bin\Debug\net10.0\SerializationMethod.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\bin\Debug\net10.0\SerializationMethod.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\bin\Debug\net10.0\SerializationMethod.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\bin\Debug\net10.0\SerializationMethod.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\bin\Debug\net10.0\SerializationMethod.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\refint\SerializationMethod.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\SerializationMethod.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SerializationMethod\obj\Debug\net10.0\ref\SerializationMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\refint\CollectionDemoApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\CollectionDemoApp\CollectionDemoApp\obj\Debug\net10.0\ref\CollectionDemoApp.dll

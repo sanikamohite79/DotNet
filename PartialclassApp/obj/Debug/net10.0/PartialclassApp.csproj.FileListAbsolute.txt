@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\bin\Debug\net10.0\PartialclassApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\bin\Debug\net10.0\PartialclassApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\bin\Debug\net10.0\PartialclassApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\bin\Debug\net10.0\PartialclassApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\bin\Debug\net10.0\PartialclassApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\refint\PartialclassApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\PartialclassApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\partialclassApp\obj\Debug\net10.0\ref\PartialclassApp.dll

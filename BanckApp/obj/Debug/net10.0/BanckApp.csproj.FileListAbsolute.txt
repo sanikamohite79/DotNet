@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\bin\Debug\net10.0\BanckApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\bin\Debug\net10.0\BanckApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\bin\Debug\net10.0\BanckApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\bin\Debug\net10.0\BanckApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\bin\Debug\net10.0\BanckApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\refint\BanckApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\BanckApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\BanckApp\obj\Debug\net10.0\ref\BanckApp.dll

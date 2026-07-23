@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\bin\Debug\net10.0\SingleArray.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\bin\Debug\net10.0\SingleArray.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\bin\Debug\net10.0\SingleArray.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\bin\Debug\net10.0\SingleArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\bin\Debug\net10.0\SingleArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\refint\SingleArray.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\SingleArray.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\SingleArray\obj\Debug\net10.0\ref\SingleArray.dll

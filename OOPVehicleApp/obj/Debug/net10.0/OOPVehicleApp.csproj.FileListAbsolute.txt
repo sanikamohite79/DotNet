@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\bin\Debug\net10.0\OOPVehicleApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\bin\Debug\net10.0\OOPVehicleApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\bin\Debug\net10.0\OOPVehicleApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\bin\Debug\net10.0\OOPVehicleApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\bin\Debug\net10.0\OOPVehicleApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\refint\OOPVehicleApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\OOPVehicleApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\OOPVehicleApp\obj\Debug\net10.0\ref\OOPVehicleApp.dll

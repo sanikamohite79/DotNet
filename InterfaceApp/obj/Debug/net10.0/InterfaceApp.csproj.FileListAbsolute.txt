@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\bin\Debug\net10.0\InterfaceApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\bin\Debug\net10.0\InterfaceApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\bin\Debug\net10.0\InterfaceApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\bin\Debug\net10.0\InterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\bin\Debug\net10.0\InterfaceApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\refint\InterfaceApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\InterfaceApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\InterfaceApp\obj\Debug\net10.0\ref\InterfaceApp.dll

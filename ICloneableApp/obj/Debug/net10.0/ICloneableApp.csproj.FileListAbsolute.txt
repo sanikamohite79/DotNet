@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\bin\Debug\net10.0\ICloneableApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\bin\Debug\net10.0\ICloneableApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\bin\Debug\net10.0\ICloneableApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\bin\Debug\net10.0\ICloneableApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\bin\Debug\net10.0\ICloneableApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\refint\ICloneableApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ICloneableApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\ICloneableApp\obj\Debug\net10.0\ref\ICloneableApp.dll

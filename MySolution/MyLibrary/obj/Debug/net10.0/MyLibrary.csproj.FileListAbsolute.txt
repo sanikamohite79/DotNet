@@ -1,0 +1,11 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\bin\Debug\net10.0\MyLibrary.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\bin\Debug\net10.0\MyLibrary.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\bin\Debug\net10.0\MyLibrary.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\refint\MyLibrary.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\MyLibrary.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\MySolution\MyLibrary\obj\Debug\net10.0\ref\MyLibrary.dll

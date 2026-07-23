@@ -1,0 +1,4 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\IndexerProgram\obj\Debug\net10.0\IndexerProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\IndexerProgram\obj\Debug\net10.0\IndexerProgram.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\IndexerProgram\obj\Debug\net10.0\IndexerProgram.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IndexerApp\IndexerProgram\obj\Debug\net10.0\IndexerProgram.csproj.CoreCompileInputs.cache

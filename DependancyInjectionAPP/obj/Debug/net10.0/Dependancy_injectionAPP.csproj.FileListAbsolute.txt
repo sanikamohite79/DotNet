@@ -1,0 +1,14 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\bin\Debug\net10.0\Dependancy_injectionAPP.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\bin\Debug\net10.0\Dependancy_injectionAPP.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\bin\Debug\net10.0\Dependancy_injectionAPP.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\bin\Debug\net10.0\Dependancy_injectionAPP.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\bin\Debug\net10.0\Dependancy_injectionAPP.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\refint\Dependancy_injectionAPP.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\Dependancy_injectionAPP.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\DependancyInjectionAPP\obj\Debug\net10.0\ref\Dependancy_injectionAPP.dll
