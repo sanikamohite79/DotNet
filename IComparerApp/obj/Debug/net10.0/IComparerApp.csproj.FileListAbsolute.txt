@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\bin\Debug\net10.0\IComparerApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\bin\Debug\net10.0\IComparerApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\bin\Debug\net10.0\IComparerApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\bin\Debug\net10.0\IComparerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\bin\Debug\net10.0\IComparerApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\refint\IComparerApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\IComparerApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\IComparerApp\obj\Debug\net10.0\ref\IComparerApp.dll
