@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\bin\Debug\net10.0\Single_Delegate.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\bin\Debug\net10.0\Single_Delegate.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\bin\Debug\net10.0\Single_Delegate.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\bin\Debug\net10.0\Single_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\bin\Debug\net10.0\Single_Delegate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\refint\Single_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\Single_Delegate.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Single_Delegate\obj\Debug\net10.0\ref\Single_Delegate.dll

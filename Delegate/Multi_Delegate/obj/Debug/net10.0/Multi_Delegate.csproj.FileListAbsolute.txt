@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\bin\Debug\net10.0\Multi_Delegate.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\bin\Debug\net10.0\Multi_Delegate.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\bin\Debug\net10.0\Multi_Delegate.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\bin\Debug\net10.0\Multi_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\bin\Debug\net10.0\Multi_Delegate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\refint\Multi_Delegate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\Multi_Delegate.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Multi_Delegate\obj\Debug\net10.0\ref\Multi_Delegate.dll
