@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\bin\Debug\net10.0\Enhanced_Catlog.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\bin\Debug\net10.0\Enhanced_Catlog.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\bin\Debug\net10.0\Enhanced_Catlog.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\bin\Debug\net10.0\Enhanced_Catlog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\bin\Debug\net10.0\Enhanced_Catlog.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\refint\Enhanced_Catlog.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\Enhanced_Catlog.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Enhanced_Catlog\obj\Debug\net10.0\ref\Enhanced_Catlog.dll

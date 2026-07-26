@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Enhanced_Catlog/1.0.0": {
+        "runtime": {
+          "Enhanced_Catlog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enhanced_Catlog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
