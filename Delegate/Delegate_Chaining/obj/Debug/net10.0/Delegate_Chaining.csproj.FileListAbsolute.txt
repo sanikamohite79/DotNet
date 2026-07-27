@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\bin\Debug\net10.0\Delegate_Chaining.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\bin\Debug\net10.0\Delegate_Chaining.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\bin\Debug\net10.0\Delegate_Chaining.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\bin\Debug\net10.0\Delegate_Chaining.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\bin\Debug\net10.0\Delegate_Chaining.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\refint\Delegate_Chaining.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\Delegate_Chaining.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Delegate\Delegate_Chaining\obj\Debug\net10.0\ref\Delegate_Chaining.dll

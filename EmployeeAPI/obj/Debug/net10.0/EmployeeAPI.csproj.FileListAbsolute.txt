@@ -1,0 +1,9 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.sourcelink.json

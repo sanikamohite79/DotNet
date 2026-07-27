@@ -1,0 +1,9 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.csproj.AssemblyReference.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\StudentWebApp\obj\Debug\net10.0\StudentWebApp.sourcelink.json
