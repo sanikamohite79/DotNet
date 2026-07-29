@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\bin\Debug\net10.0\StudentWebApiApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\bin\Debug\net10.0\StudentWebApiApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\bin\Debug\net10.0\StudentWebApiApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\bin\Debug\net10.0\StudentWebApiApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\bin\Debug\net10.0\StudentWebApiApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\refint\StudentWebApiApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\StudentWebApiApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\StudentWebApiApp\obj\Debug\net10.0\ref\StudentWebApiApp.dll
