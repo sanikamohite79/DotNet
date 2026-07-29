@@ -1,8 +1,11 @@
-C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.exe
-C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.dll
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\appsettings.json
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.staticwebassets.endpoints.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.pdb
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\EmployeeWebApi.csproj.AssemblyReference.cache
@@ -27,8 +30,5 @@ C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\Employ
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\EmployeeWebApi.dll
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\refint\EmployeeWebApi.dll
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\EmployeeWebApi.pdb
-C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.deps.json
-C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.runtimeconfig.json
-C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\bin\Debug\net10.0\EmployeeWebApi.pdb
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\EmployeeWebApi.genruntimeconfig.cache
 C:\Users\sanik\OneDrive\Desktop\TAP\.Net\EmployeeWebApi\obj\Debug\net10.0\ref\EmployeeWebApi.dll
