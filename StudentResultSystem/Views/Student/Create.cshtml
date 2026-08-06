@@ -1,0 +1,29 @@
+
+@model StudentResultSystem.Models.Student
+
+<h2>Add Student</h2>
+
+<form asp-action="Create">
+
+<label>Roll No</label>
+<input asp-for="RollNo" class="form-control"/>
+
+<label>Name</label>
+<input asp-for="Name" class="form-control"/>
+
+<label>English</label>
+<input asp-for="English" class="form-control"/>
+
+<label>Maths</label>
+<input asp-for="Maths" class="form-control"/>
+
+<label>Science</label>
+<input asp-for="Science" class="form-control"/>
+
+<br/>
+
+<button class="btn btn-primary">
+Save
+</button>
+
+</form>

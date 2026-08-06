@@ -1,0 +1,39 @@
+﻿@model List<StudentResultSystem.Models.Student>
+
+<h2>Student Result Analysis</h2>
+
+<a asp-action="Create" class="btn btn-primary">Add Student</a>
+<a asp-action="Search" class="btn btn-success">Search</a>
+<a asp-action="Topper" class="btn btn-warning">Topper</a>
+<a asp-action="Sorted" class="btn btn-info">Sort By Marks</a>
+
+<table class="table table-bordered mt-3">
+
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>English</th>
+        <th>Maths</th>
+        <th>Science</th>
+        <th>Total</th>
+        <th>Percentage</th>
+        <th>Result</th>
+    </tr>
+
+@foreach(var s in Model)
+{
+<tr>
+
+<td>@s.RollNo</td>
+<td>@s.Name</td>
+<td>@s.English</td>
+<td>@s.Maths</td>
+<td>@s.Science</td>
+<td>@s.Total</td>
+<td>@s.Percentage.ToString("F2")%</td>
+<td>@s.Result</td>
+
+</tr>
+}
+
+</table>

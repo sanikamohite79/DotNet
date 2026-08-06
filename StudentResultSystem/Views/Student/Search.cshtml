@@ -1,0 +1,54 @@
+@model StudentResultSystem.Models.Student
+
+<h2>Search Student</h2>
+
+<form asp-action="Search" method="post">
+
+    <div class="mb-3">
+        <label>Roll Number</label>
+        <input type="number" name="rollNo" class="form-control" />
+    </div>
+
+    <button class="btn btn-success">
+        Search
+    </button>
+
+</form>
+
+<hr />
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Message
+    </div>
+}
+
+@if (Model != null)
+{
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>English</th>
+            <th>Maths</th>
+            <th>Science</th>
+            <th>Total</th>
+            <th>Percentage</th>
+            <th>Result</th>
+        </tr>
+
+        <tr>
+            <td>@Model.RollNo</td>
+            <td>@Model.Name</td>
+            <td>@Model.English</td>
+            <td>@Model.Maths</td>
+            <td>@Model.Science</td>
+            <td>@Model.Total</td>
+            <td>@Model.Percentage.ToString("F2")%</td>
+            <td>@Model.Result</td>
+        </tr>
+
+    </table>
+}

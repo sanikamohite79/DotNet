@@ -1,0 +1,31 @@
+@model StudentResultSystem.Models.Student
+
+<h2>Topper</h2>
+
+
+@if (ViewBag.Message != null || Model == null)
+{
+    <div class="alert alert-warning">
+        @(ViewBag.Message ?? "No topper found.")
+    </div>
+}
+else
+{
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Total</th>
+            <th>Percentage</th>
+        </tr>
+
+        <tr>
+            <td>@Model.RollNo</td>
+            <td>@Model.Name</td>
+            <td>@Model.Total</td>
+            <td>@Model.Percentage.ToString("F2")%</td>
+        </tr>
+
+    </table>
+}
