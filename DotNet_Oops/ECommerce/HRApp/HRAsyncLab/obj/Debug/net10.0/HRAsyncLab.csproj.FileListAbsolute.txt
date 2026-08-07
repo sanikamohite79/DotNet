@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\bin\Debug\net10.0\HRAsyncLab.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\bin\Debug\net10.0\HRAsyncLab.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\bin\Debug\net10.0\HRAsyncLab.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\bin\Debug\net10.0\HRAsyncLab.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\bin\Debug\net10.0\HRAsyncLab.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\refint\HRAsyncLab.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\HRAsyncLab.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DotNet\DotNet_Oops\ECommerce\HRApp\HRAsyncLab\obj\Debug\net10.0\ref\HRAsyncLab.dll
