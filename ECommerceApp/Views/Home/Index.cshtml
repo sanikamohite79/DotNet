@@ -1,0 +1,22 @@
+﻿
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to @ViewBag.Shop</h1>
+    @{
+        List<string> products =new List<string>();
+        products.Add("Laptop");
+        products.Add("Mobile");
+        products.Add("Mouse");
+        products.Add("Buds");
+
+        foreach(string product in products)
+        {
+            <p> @product </p>
+        }
+
+    }
+</div>
